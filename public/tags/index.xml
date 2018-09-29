@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vintergarder</title>
+    <link>http://vintergarder.dk/tags/</link>
+    <description>Recent content in Tags on Vintergarder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sat, 18 Aug 2018 18:51:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://vintergarder.dk/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dagbog</title>
+      <link>http://vintergarder.dk/tags/dagbog/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/tags/dagbog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danmark</title>
+      <link>http://vintergarder.dk/tags/danmark/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/tags/danmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dansk</title>
+      <link>http://vintergarder.dk/tags/dansk/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/tags/dansk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forsvaret</title>
+      <link>http://vintergarder.dk/tags/forsvaret/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/tags/forsvaret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garder</title>
+      <link>http://vintergarder.dk/tags/garder/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/tags/garder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hæren</title>
+      <link>http://vintergarder.dk/tags/h%C3%A6ren/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/tags/h%C3%A6ren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livgarden</title>
+      <link>http://vintergarder.dk/tags/livgarden/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/tags/livgarden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

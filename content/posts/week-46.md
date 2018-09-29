@@ -1,0 +1,43 @@
+---
+title: "Uge 46: Angreb i mørke og faldskærmsudspring"
+date: 2002-10-06T12:00:00+02:00
+draft: false
+weight: 46
+---
+
+{{< figure src="/images/0442.jpg" title="I skoven" >}}
+
+Dette var en stille og rolig uge hvor vi mødte sent og fik tidligt fri det meste af tiden. Ugen skulle bruges på lige at få det sidste enhedsuddannelse på plads, samt at klargøre til Jyllandsperioden som strækker sig over den næste måneds tid. Der skulle derfor også ryddes op på kasernen, eftersom vi ikke kommer tilbage før Jyllandsperioden er slut. Når vi skal have weekendorlov bliver vi aftrådt i Jylland, hvilket jyderne jo nok er glade for. Vi andre må bare tage toget tilbage til Sjælland fra Fredericia banegård, hvor vi har muligheden for at blive aftrådt fra. Jyllandsperioden byder blandt andet på skydelejr, kamp i by samt en bunke øvelser.
+
+Om mandagen havde vi først appel klokken 16. Så jeg vovede igen at tage afsted hjemmefra samme dag. Jeg kom da også op til tiden, men DSB bød selvfølgelig på sporarbejde, forsinkede toge og andet godt, så jeg kom senere ud på kasernen end jeg havde regnet med. Jeg havde 20 minutter inden appel til at klæde mig om, hvilket godt kunne lade sig gøre.
+
+Grunden til at vi havde appel så sent var, at sergenterne skulle have lidt uddannelse om formiddagen så de kunne undervise os i angreb i mørke om aftenen. Efter appel havde vi ca. 45 minutters teori om angreb i mørke, og så havde vi 1½ times aftenhvil. Derefter kørte vi til Farum og øvede os i angreb. Det var relativt stille og roligt - vi lavede blandt andet noget, der hedder lydløs storm, hvor man bokser sig fremad uden at løbe og skyde. Det sjoveste var at lave et delingsangreb i mørke, hvor kørere og vognkommandører var momenter. Angrebet gik rigtig godt, og vi kørte tilbage og havde appel klokken kvart i tolv. Ifølge øvelseslisten havde vi helt til klokken halv tre om natten, men vi øvede kun angrebet én gang fordi det gik godt.
+
+Tirsdag havde vi først appel klokken 11:45. Det var en kort dag. Vi havde fået at vide, at vi ikke skulle have Prøve 40, da vi ikke havde haft tid til at træne op til den. I stedet skulle vi så have militær 3-kamp i slutningen af værnepligtstiden. De næste par dage skulle gå med at træne til 3-kampen. Militær 3-kamp består af 3 discipliner: Orienteringsløb (ligesom det vi lavede i uge 4) samt skydning og håndgranatkast. Om tirsdagen skulle vi øve os i orienteringsløb samt håndgranatkast, og torsdag/fredag skulle vi indskyde vores våben, så vi ikke behøver at bruge tid på det i næste uge hvor vi skal i skydelejr.
+Orienteringsløbet foregik i Stokkekøb Hegn, og var rimelig let. Vi var færdige allerede klokken halv fire og havde appel umiddelbart efter.
+
+Onsdag morgen havde vi stueeftersyn til normal tid. Der var ikke rigtig nogen der havde rengjort deres geværer siden vi havde haft angreb i mørke (hvor vi skød med løst), men vi fik ikke rigtig hug for det. Gevær 2's gevær var dog ekstremt beskidt, og han fik nogle verbale hug, men ingen appel 2. Det har der vist ikke været i ret lang tid...
+
+Tirsdag var det min deling, kommandosektionen og maskinkaninerne der havde været ude og lave orienteringsløb mens 1. og 2. deling havde klargjort til Jyllandsperioden. I dag var rollerne vendt rundt. Eftersom at jeg er uddannet på TMG, hjalp jeg VMEK med at efterse våbnene og samle dem igen bagefter. Da klokken blev 10 var der kun småopgaver tilbage: Feje blade, rydde op ved PMV'erne, male skovle og lignende. Så der var tid til lidt kogning, og så var der frokostpause. Bagefter spillede delingen fodbold i en times tid, og herefter brugte vi en time i fitness centeret. Der var appel 15:30.
+
+Efter appel havde vi fri, men dem der var meldt til faldskærmsudspring skulle op og have teori i et klasselokale fra 17:30 til 22. Ugen inden havde vi fået muligheden for at komme ud at springe i faldskærm. Det var noget, som alle kunne melde sig til, så vi deltog i det sammen med rekrutterne.
+
+Man skulle betale 200,- i depositum, og faldskærmsuddannelsen samt op til to spring kostede 1200,- kroner. Det var selvfølgelig med rabat. Normalt koster grunduddannelsen samt det første spring 1800,- kroner. Det var Nordsjællands FaldskærmsKlub der stod for arrangementet, og der var ihvertfald over 60 tilmeldte.
+
+Jeg har længe villet prøve at springe i faldskærm (også inden min værnepligtstid), så jeg skulle selvfølgelig også være med! Den teori, der hørte til grunduddannelsen, var meget praktisk orienteret, og der var ikke så meget vi skulle lære om. Vi skulle vide hvordan man sidder i flyet, hvordan man hopper ud korrekt, hvordan man kontrollerer og styrer faldskærmen, samt hvad vi skulle gøre hvis den ikke åbnede sig korrekt. Vi skulle vide, hvordan man udløser reserveskærmen samt hvad man gør, hvis man lander i højspændingsledninger, i vand, på huse osv. Vi skulle springe fra et lille fly, hvor der kunne sidde 4 springere i ad gangen. Springet skulle være et såkaldt staticline spring, hvor faldskærmsudløseren er bundet fast i flyet så den udløses automatisk, når man hopper ud. Der skulle springes fra 1000 meters højde. Der var selvfølgelig mange der glædede sig til springet, men mange var også nervøse. Vores instruktør forklarede, at han havde haft over 2500 spring, og kun brugt reserveskærmen én gang, og det var kun fordi at han skulle prøve en eksperimentiel faldskærm, der ikke var god nok. Det hører til sjældenhederne, at der går noget galt, og det kan næsten altid rettes mens man er i luften. Faldskærmsteorien sluttede klokken 22:30.
+
+Torsdag morgen havde vi ikke stueeftersyn. Der var appel klokken 07:20. Vi skulle op til Sjælsø skydebanerne og indskyde vores geværer. Faldskærmsfolkene skulle til først, da vi ikke ville være der om fredagen (den dag skulle vi nemlig springe!). Når folk var færdige med at indskyde våbnene, fik de lov til at gå tilbage til kasernen og hjælpe til med at klargøre til Jyllandsperioden. Der var dog ikke så meget at lave, så folk rendte bare lidt formålsløst rundt. Det meste af tiden sad jeg op ved PMV'erne og snakkede med de andre og hjalp lidt til. På et tidspunkt blev vi også sat til at flytte nogle skabe fra delingskammeret og ned på den gamle sygestue.
+
+Fredag var der indskydning af gevær M/75 for restanter. Selvfølgelig bortset fra faldskærmsfolkene, der var blevet færdige med indskydningen om torsdagen. Vi skulle stille på appelpladsen klokken 06:45. Vi måtte selv bestemme hvilket tøj vi ville springe i, men det blev foreslået, at vi sprang i kampuniformen eller Ø-påklædning, da den beskytter godt mod de overfladiske skrammer man kan pådrage sig under landingen. De fleste stilte i kampuniform eller det sorte FUT-tøj. Der var nogle enkelte der ikke kom med, da folk havde været til fest i Birkerød aftenen før, og var kommet lidt til skade efter at have været oppe at slås med nogen fra KAR. Vi andre kørte til Sundbylille i Frederikssund, hvor vi skulle springe fra Bybjerg Springcenter. Vi spiste morgenmad derude, og så ventede vi ellers.
+
+{{< figure src="/images/0644.jpg" title="Propelflyet som vi sprang fra" >}}
+
+{{< figure src="/images/0645.jpg" title="Vi venter på at springe" >}}
+
+Vi sprang i hold på 4 mands størrelse, og jeg var på hold 10. Flyet skulle lande og lette mellem hvert holds spring, så det ville tage lidt tid før jeg kom til. Hvis alt gik gnidningsløst regnede man dog med, at vi ville være færdige med at springe klokken 16. Det havde været godt vejr hele ugen, men denne fredag skulle det selvfølgelig blæse voldsomt. Det var også meget overskyet selvom det blev bedre i løbet af dagen. Man var lidt bekymret over den stærke vind, men man prøvede alligevel at lade folk springe. De første fire mand på hold 1 landede rundt omkring i terrænet pga. den stærke vind - der var endda én der landede så langt væk, at man måtte ud og hente ham i bil. På det tidspunkt var vindhastigheden blevet målt til 13 meter i sekundet, hvilket var alt for meget. Så vi ventede et par timer og håbede på, at vinden ville tage af.
+
+{{< figure src="/images/0654.jpg" title="Yay!" >}}
+
+Da klokken blev 14 besluttede vi os dog til at tage hjem, da vi godt kunne se, at vejret ikke ville blive bedre. Folk var meget skuffede, og instruktørerne ville prøve at overtale vores kompagnichefer til at finde en anden dag, hvor vi kunne få lov til at springe. Men ellers så havde vi jo modtaget grundkurset i faldskærmsudspring, så vi kunne sagtens besøge en anden faldskærmsklub en eller anden weekend, og så udføre springet dér. Så fredagen var spildt for de flestes vedkommende, men de 4 mand der nåede at springe, havde syntes at det var en rigtig fed oplevelse, og de ville meget gerne prøve det igen, så vi har noget at glæde os til...
+
+{{< figure src="/images/0650.jpg" >}}

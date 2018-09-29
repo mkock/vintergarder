@@ -1,0 +1,20 @@
+---
+title: "Uge 09: BSO 3"
+date: 2002-02-03T12:00:00+02:00
+draft: false
+weight: 9
+---
+
+{{< figure src="/images/0072.jpg" title="Gruppefoto" >}}
+
+Endnu engang på BSO, igen med to overnatninger. Forinden havde vi fået besked på at pakke alt vores rygsæks indhold ned i vandtætte plastikposer, og vi fik ikke at vide hvorfor. Der cirkulerede en del rygter om, at vi skulle have vandpassage, hvilket resulterede i mange negative udtalelser i delingen. Vi pakkede dog vandtæt, som vi fik besked på. Det optimale er at lægge en sort affaldssæk i rygsækken og så pakke alt ned i den. Den kan så evt. bindes sammen i toppen med et snørebånd.
+
+Denne gang var min buddy til et arrangement for sergentemner på kasernen, så han ankom først til BSO'et onsdag aften. Derfor var jeg alene om at grave skyttehul og sætte bivuak op det første stykke tid. Vores sergent kørte i grøften med en MAN læsset med udstyr, så vi måtte slæbe udstyret hen til BSO'et - vi gjorde det dog med et smil - det var vist lidt pinligt for sergenten, at han var kørt galt. Om aftenen var vi på patrulje, efter at vi havde brugt dagen på at lære om patruljetjeneste. Vi skulle gå et par kilometer med rygsæk, snige os ind på en GD og aflytte radioen. Vores spejdere blev dog opdaget af fjenden, og der blev slået alarm. Men vi havde en god tilbagetrækningsteknik, og vi slap væk uden problemer.
+
+Efter patruljen fik vi lov til at gå til ro. Jeg satte en lidt elendig bivuak op, som ikke rigtig formåede at holde vinden ude. Den første nat var iskold, og det var stormvejr. Det var heller ikke en sjov nat at ligge på vagt i. Vi havde gravet et stående skyttehul, som var blevet fyldt halvt op med vand. Nogen havde dog sæt et par pæle på tværs i skyttehullet, så man kunne stå i det alligevel uden at blive våd. Det meste af vagten foregik dog i det liggende skyttehul lige ved siden af.
+
+Onsdag aften skulle vi igen på patrulje. Forinden blev vi dog kaldt til samling. Foran os på jorden lå der nogle ting, som var pakket ind i et tæppe. Vores løjtnant sagde, at vi kunne vælge at se, hvad der var i tæppet, men så skulle vi også bruge det. Eller vi kunne lade være med at se i tæppet, men så ville sergenterne bruge det. Vi var selvfølgelig i tvivl. Under tæppet kunne der gemme sig alt fra slik og chokolade til panserminer eller panserværnsraketter, som vi skulle slæbe rundt på under patruljen. Til sidst valgte vi dog at se, hvad der gemte sig under tæppet: Coca-Cola flasker fyldt med pandekagedej, sukker, marmelade og kakao. Lækkert! Vi fik en tre timers tid til at spise og lave pandekager. Pandekagerne blev lavet i vores kogekar, så det blev en slags pandekagegrød - en lidt unormal form for pandekager, men det smagte udmærket. Bagefter forplejede vi varmt (dvs. lavede varm mad).
+
+Dagen var gået med at lære om sprængstoffer og teknikker til transport af sårede soldater, samt angreb på køretøjer. På patruljen skulle vi så opsore fjendens pansrede køretøj og sprænge det i luften med plastisk sprængstof (en attrap, selvfølgelig). Eksplosionen blev simuleret af et blålyn. Patruljen gik rigtig godt, bortset fra at min gruppe var lidt for synlige lige før angrebet, hvor vi bevægede os igennem en tæt underskov. Tilbagetrækningen foregik (naturligvis) igennem et stort vandhul, så jeg fik drivvåde sokker. Om natten lagde jeg sokkerne ned i soveposen i håb om, at de kunne nå at tørre til når jeg skulle op. Det kunne de ikke helt, så både nattevagterne og en del af den efterfølgende dag rendte jeg rundt i våde sokker. Jeg burde nok have skiftet sokkerne, men gjorde det af en eller anden grund ikke.
+
+BSO'et sluttede med en 15 km march tilbage til kasernen. Vi havde brugt mit ene kogekar til at lave pandekagedejen i, og det andet (vi har to hver) havde jeg selv brugt til at lave aftensmaden i, så de lignede noget fra en Alien-film. Den efterfølgende rengøring af udrustning og udstyr efter feltturene er noget, man ikke kan komme udenom. Turen bød dog ikke på nogen vandpassage som frygtet - plastikposerne var blot for at holde rygsækkens indhold tørt under den store mængde nedbør, vi blev udsat for. Det var selvfølgelig lidt af en lettelse.

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forsvaret on Vintergarder</title>
+    <link>http://vintergarder.dk/tags/forsvaret/</link>
+    <description>Recent content in Forsvaret on Vintergarder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sat, 18 Aug 2018 18:51:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://vintergarder.dk/tags/forsvaret/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vintergarder</title>
+      <link>http://vintergarder.dk/</link>
+      <pubDate>Sat, 18 Aug 2018 18:51:32 +0200</pubDate>
+      
+      <guid>http://vintergarder.dk/</guid>
+      <description>En garders dagbog I juli 2000 modtog jeg, sammen med mange andre unge mænd rundt omkring i landet, en skriftlig indkaldelse fra sessionsmyndigheden om aftjening af værnepligt. Det blev starten på et eventyr ud i det blå, med nye kammerater, nye udfordringer og et år med en helt anden livsstil end jeg var vant til på det tidspunkt.
+Jeg blev udvalgt til Den Kongelige Livgarde, hærens absolut hårdeste og mest krævende militæruddannelse for værnepligtige, og også én af de længste med sine 12 måneder.</description>
+    </item>
+    
+  </channel>
+</rss>
