@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -446,63 +446,13 @@
   <url>
     <loc>http://vintergarder.dk/categories/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vintergarder.dk/tags/dagbog/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vintergarder.dk/tags/danmark/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vintergarder.dk/tags/dansk/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vintergarder.dk/tags/forsvaret/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vintergarder.dk/tags/garder/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vintergarder.dk/tags/h%C3%A6ren/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vintergarder.dk/tags/livgarden/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://vintergarder.dk/tags/</loc>
-    <lastmod>2018-08-18T18:51:32+02:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
