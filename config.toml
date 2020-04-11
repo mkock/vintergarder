@@ -31,10 +31,22 @@ disqusShortname = "vintergarder-dk"
 	weight = 3
 
 	[[menu.main]]
+	identifier = "rex"
+	name = "REX-turen"
+	url = "/rex"
+	weight = 4
+
+	[[menu.main]]
+	identifier = "blaa_fest"
+	name = "Blå fest"
+	url = "/blaa_fest"
+	weight = 5
+
+	[[menu.main]]
 	identifier = "more"
 	name = "Mere"
 	url = "/more"
-	weight = 4
+	weight = 6
 
 [sitemap]
   changefreq = "monthly"
